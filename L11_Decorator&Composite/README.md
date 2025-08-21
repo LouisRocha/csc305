@@ -1,0 +1,2 @@
+composite (with *) 
+decorator (without *)
